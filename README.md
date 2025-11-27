@@ -5,14 +5,14 @@
 > [ControlPlane Enterprise for Flux CD](https://fluxcd.control-plane.io/).
 >
 > The `d2` reference architecture comprised of
-> [d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet),
-> [d2-infra](https://github.com/controlplaneio-fluxcd/d2-infra) and
-> [d2-apps](https://github.com/controlplaneio-fluxcd/d2-apps)
+> [d2-fleet](https://github.com/izerecord/d2-fleet),
+> [d2-infra](https://github.com/izerecord/d2-infra) and
+> [d2-apps](https://github.com/izerecord/d2-apps)
 > is a set of best practices and production-ready examples for using Flux Operator
 > and OCI Artifacts to manage the continuous delivery of Kubernetes infrastructure and
 > applications on multi-cluster multi-tenant environments.
 >
-> Download the guide: [Flux D2 Architectural Reference](https://raw.githubusercontent.com/controlplaneio-fluxcd/distribution/main/guides/ControlPlane_Flux_D2_Reference_Architecture_Guide.pdf)
+> Download the guide: [Flux D2 Architectural Reference](https://raw.githubusercontent.com/izerecord/distribution/main/guides/ControlPlane_Flux_D2_Reference_Architecture_Guide.pdf)
 
 ## Scope and Access Control
 
